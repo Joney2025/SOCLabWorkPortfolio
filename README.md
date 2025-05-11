@@ -1,6 +1,6 @@
 # SOCLabWorkPortfolio
 A Collection of my lab work 
-Hi, I'm John Idogo, a Cybersecurity Analyst showcasing my lab work tosupport my job applications
+Hi, I'm John Idogo, a Cybersecurity Analyst showcasing my lab work to support my job applications
 ## Projects
 - [Lab 1 Objective:Introduction to Log Analysis) - This project showcases my foundational skills in log analysis for security monitoring. Through this lab, I learned to generate and collect logs on Windows and Linux systems, analyzing them to identify potential security incidents. By exploring log data, I developed an understanding of how SOC analysts leverage logs to detect threats, strengthening my ability to contribute to cybersecurity operations in roles focused on incident detection and response.
 - [Lab 2 Objective:Windows Security Logs Analysis) - This project demonstrates my ability to analyze Windows Security Logs to identify and investigate security-related events. Through this lab, I developed hands-on skills in exploring logs to detect critical system activities, such as login attempts and user account changes, which are essential for identifying potential security threats. By completing this analysis, I gained practical experience in log analysis, enhancing my cybersecurity skill set for roles requiring threat detection and incident response
